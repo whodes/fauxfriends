@@ -10,7 +10,7 @@ jobs:
     concurrency: deploy-group    # optional: ensure only one action runs at a time
     steps:
       - uses: actions/checkout@v4
-      - uses: quarkus-io/setup-quarkus@v1
+      - uses: quarkusio/quarkus-github-action@v1
         with:
           version: 2.16.0
       - name: Build Quarkus app
