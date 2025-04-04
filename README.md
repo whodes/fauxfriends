@@ -2,7 +2,7 @@
 
 An app to find the people on Instagram that you are not following back.  
 I am NOT a front-end developer, so the UI is not the best, but it works.  
-You can see it in action at [fauxfriends.com](https://fauxfriends.com).
+You can see it in action at [fauxfriends.com](https://fauxfriends.fly.dev).
 
 ## Running the Application
 
