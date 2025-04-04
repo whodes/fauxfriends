@@ -9,7 +9,7 @@ You can see it in action at [fauxfriends.fly.dev](https://fauxfriends.fly.dev).
 ### Prerequisites
 
 Before running the app locally, make sure you have the following installed:
-- [Java 17 or newer](https://adoptopenjdk.net/)
+- [Java 21 or newer](https://adoptopenjdk.net/)
 - [Gradle](https://gradle.org/)
 
 ### Run the application in development mode
